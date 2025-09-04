@@ -98,23 +98,23 @@ iterate()
 ### Output:
 
 ## Do while
-![stl1a](https://github.com/user-attachments/assets/1828d8ae-c347-4c89-a54e-b4776bd2d18a)
+<img width="1912" height="607" alt="do_while" src="https://github.com/user-attachments/assets/c9f1c5f6-9d84-4984-aec9-7d0b936da999" />
 
 
 ## While do
-![stl1b](https://github.com/user-attachments/assets/9fe4feca-5d2a-4feb-9fea-25c0fde87112)
+<img width="1912" height="565" alt="while_do" src="https://github.com/user-attachments/assets/00b9bcda-404f-42b3-a4e3-3a5bca2a07a9" />
 
 
 ## Switch
+<img width="1906" height="486" alt="switch" src="https://github.com/user-attachments/assets/502265a8-b325-4e20-b1fe-ef0779bba1f7" />
 
-![stl1c](https://github.com/user-attachments/assets/b7449049-75b4-4ad7-96eb-9754e3ab44b5)
 
 ## If else
-  ![stl1d](https://github.com/user-attachments/assets/23e82684-68e4-4a34-b7d7-28fd14bde424)
+<img width="1905" height="557" alt="if_else" src="https://github.com/user-attachments/assets/03395d1b-ac9c-4898-9ced-439821b2fc0b" />
 
 
 ## for
-![stl1e](https://github.com/user-attachments/assets/059fee5a-54e8-4533-b4aa-12bd4a4ae912)
+<img width="1910" height="356" alt="for" src="https://github.com/user-attachments/assets/bb71e26c-6d2c-4a1f-937b-8b3fc41a3442" />
 
 
 
