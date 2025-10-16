@@ -55,7 +55,7 @@ except ValueError:
 ```
 
 ### Output:
-![STL5](https://github.com/user-attachments/assets/f1466d96-f522-46b2-a765-49643d8a29d1)
+<img width="1918" height="992" alt="Screenshot 2025-10-16 094322" src="https://github.com/user-attachments/assets/94fb443a-b333-47cc-adf2-7b2552f9c4e5" />
 
 
 
