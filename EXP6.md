@@ -39,7 +39,7 @@ else:
 
 ### Output:
 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/8a21531a-c226-411b-b7c6-511b1c2fa610" />
+<img width="1897" height="941" alt="Screenshot 2025-10-23 085351" src="https://github.com/user-attachments/assets/c17a8e75-7827-42d9-977e-4afab0be11b0" />
 
 
 
