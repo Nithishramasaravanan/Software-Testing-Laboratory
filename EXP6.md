@@ -39,7 +39,7 @@ else:
 
 ### Output:
 
-![STL6](https://github.com/user-attachments/assets/67058b13-3faf-4992-b4b2-83ca8f1220d1)
+<img width="1897" height="941" alt="Screenshot 2025-10-23 085351" src="https://github.com/user-attachments/assets/c2d1d513-84b8-4880-a1ed-53ad5407b010" />
 
 
 
