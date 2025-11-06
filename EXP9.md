@@ -30,7 +30,7 @@ assert sumOfDigits(256) == 2
 ```
 
 ### Output:
-![STL1](https://github.com/user-attachments/assets/3203292d-49c7-4fa9-9d6e-ca31d4d054d7)
+<img width="943" height="498" alt="Screenshot 2025-11-05 155423" src="https://github.com/user-attachments/assets/5aaaa9e4-b03d-4030-bfa2-99a9e4562a4e" />
 
 
 
