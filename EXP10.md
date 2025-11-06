@@ -1,8 +1,10 @@
 # Ex.No: 10  Pytest program for Sum of digits
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### AIM: To write a python program for Fibonacci Series and generate test cases using Pytest. 
+### NAME : NITHISH R                                                                            
+### REGISTER NUMBER : 212222040107
+
+### AIM: 
+To write a python program for Fibonacci Series and generate test cases using Pytest. 
 
 ### Algorithm:
 
@@ -16,18 +18,21 @@ saved and type “pytest test_fib.py” and run it.
 
 ### Program:
 
-
-
-
-
-
-
-
-
-
-
+```
+def fibR(n): 
+if n==1 or n==2: 
+return 1 
+return fibR(n-1)+fibR(n-2) 
+def test_fib_1_equals_1(): 
+assert fibR(1) == 1 
+def test_fib_2_equals_1(): 
+assert fibR(2) == 1 
+def test_fib_6_equals_8(): 
+assert fibR(6) == 7
+```
 
 ### Output:
+<img width="767" height="526" alt="Screenshot 2025-11-06 081956" src="https://github.com/user-attachments/assets/c83d411a-6edd-43c0-9491-eb74a5d3584f" />
 
 
 
