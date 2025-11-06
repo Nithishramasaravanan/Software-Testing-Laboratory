@@ -1,7 +1,7 @@
 # Ex.No: 8  Test cases for Banking Application
 
-### NAME: GOKULA PRIYA P                                                                            
-### REGISTER NUMBER : 212222040044
+### NAME: NITHISH R                                                                           
+### REGISTER NUMBER : 212222040107
 ### AIM: 
 For Banking Applicationsystem study its system specifications and generate test cases.
 ### The characteristics of a Banking application are as follows: 
